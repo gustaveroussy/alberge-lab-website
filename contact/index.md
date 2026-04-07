@@ -7,28 +7,30 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are an emerging research group, hosted within the Inserm Unit U1360 at Gustave Roussy. 
+
+You will find us inside the Pavillon de Recherche 2 at Gustave Roussy in Villejuif, France.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="jeanbaptiste.alberge@gustaveroussy.fr"
+  link="jeanbaptiste.alberge@gustaveroussy.fr"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+33 (0)1 42 11 49 59"
+  link="+33 (0)1 42 11 49 59"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/YDE8HSnFi98KKxcN9"
 %}
+
+{% comment %}
 
 {% include section.html %}
 
@@ -75,3 +77,5 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+{% endcomment %}

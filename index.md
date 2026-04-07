@@ -1,9 +1,13 @@
 ---
 ---
 
-# gustaveroussy's Website
+# Integrated Genomics in Pediatric Oncology
 
-An engaging 1-3 sentence description of your lab.
+We use **genomics tools** to decode how **pediatric cancers** evolve, from early mutations to relapse. 
+
+Our emerging team is part of Inserm Research Unit **U1360**: "_Oncogenesis, Resistance, and Therapeutic Targets of Pediatric Cancers_", led by Thomas Mercher.
+
+**We are hiring—join us!** [Contact us](mailto:jeanbaptiste.alberge@gustaveroussy.fr).
 
 {% include section.html %}
 
@@ -11,7 +15,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team hunts for new genetic drivers of pediatric cancers, including somatic changes and inherited variants, using cutting-edge genomics, unique patient cohorts, and the creativity of brilliant minds.
 
 {%
   include button.html
@@ -26,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research-image.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our projects are in development and will be detailed here as they take shape.
 
 {%
   include button.html
@@ -49,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/project-diagram.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,8 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Curious, collaborative, and multidisciplinary, our team combines computational biology and diverse perspectives to study pediatric cancers.
 {%
   include button.html
   link="team"
@@ -74,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/people-image.jpg"
   link="team"
   title="Our Team"
   text=text
