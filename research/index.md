@@ -7,17 +7,19 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our page is still under construction, but we’ll be sharing more about our team and projects soon!
-
-{% comment %}
+Our pediatric oncology studies are underway ...
+meanwhile, feel free to explore our previous publications!
 
 {% include section.html %}
 
+{% comment }
 ## Highlighted
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
+
+{% endcomment }
 
 ## All
 
@@ -25,6 +27,4 @@ Our page is still under construction, but we’ll be sharing more about our team
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
-
-{% endcomment %}
+{% include list.html data="citations" component="citation" style="rich" filters="jean-baptiste-alberge: true"  %}

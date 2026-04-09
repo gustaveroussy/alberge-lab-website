@@ -8,7 +8,9 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 Curious, collaborative, and multidisciplinary, our team combines computational biology and diverse perspectives to study pediatric cancers.
-We are hiring—join us! [Contact us](mailto:jeanbaptiste.alberge@gustaveroussy.fr).
+We are hiring! [Contact us](mailto:jeanbaptiste.alberge@gustaveroussy.fr).
+
+Our team members will soon upload their profile using git pull requests! :-) 
 
 {% include section.html %}
 

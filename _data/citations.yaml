@@ -1,282 +1,770 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1182/blood.2025032333
+  title: 'At a crossroads: circulating tumor cells in myeloma'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-03-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Jean-Baptiste Alberge
+  publisher: Blood
+  date: '2026-02-26'
+  link: https://doi.org/hbwhpb
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1038/s43018-025-01006-0
+  title: SWIFT-seq enables comprehensive single-cell transcriptomic profiling of circulating
+    tumor cells in multiple myeloma and its precursors
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Elizabeth D. Lightbody
+  - Romanos Sklavenitis-Pistofidis
+  - Ting Wu
+  - Junko Tsuji
+  - Danielle T. Firer
+  - Michael P. Agius
+  - Ankit K. Dutta
+  - Hadley Barr
+  - Sungjae Kim
+  - Jean-Baptiste Alberge
+  - Sarah Nersesian
+  - Tim Coorens
+  - Nicholas J. Haradhvala
+  - Nang Kham Su
+  - Cody J. Boehner
+  - Michelle P. Aranha
+  - Mahshid Rahmat
+  - Yoshinobu Konishi
+  - Laura Hevenor
+  - Katherine Towle
+  - Erica Horowitz
+  - Jacqueline Perry
+  - Maya Davis
+  - Kelly A. Walsh
+  - Christian J. Cea-Curry
+  - Grace Fleming
+  - Michael E. Vinyard
+  - Daniel Heilpern-Mallory
+  - Habib El-Khoury
+  - Annie Cowan
+  - John E. Ready
+  - Catherine R. Marinac
+  - Gad Getz
+  - Irene M. Ghobrial
+  publisher: Nature Cancer
+  date: '2025-08-08'
+  link: https://doi.org/g9wjr4
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood.2024025102
+  title: Large-scale dependency and drug screens to characterize the therapeutic vulnerabilities
+    of multiple myeloma with 1q+
+  authors:
+  - Romanos Sklavenitis-Pistofidis
+  - Elizabeth D. Lightbody
+  - Mairead Reidy
+  - Junko Tsuji
+  - Jean-Baptiste Alberge
+  - Michelle P. Aranha
+  - Daniel Heilpern-Mallory
+  - Harvey G. Roweth
+  - Daisy Huynh
+  - Stephen J. F. Chong
+  - Anna Y. Chung
+  - Jeremy Zhang
+  - Liam Hackett
+  - Nicholas J. Haradhvala
+  - Ting Wu
+  - Nang K. Su
+  - Brianna Berrios
+  - Saveliy Belkin
+  - Ankit K. Dutta
+  - Ryan A. Knudson
+  - Carolyn Brandt
+  - Patricia T. Greipp
+  - Matthew S. Davids
+  - Maria Papaioannou
+  - Gad Getz
+  - Irene M. Ghobrial
+  - Salomon Manier
+  publisher: Blood
+  date: '2025-07-03'
+  link: https://doi.org/hbwhnm
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-025-02196-0
+  title: Genomic landscape of multiple myeloma and its precursor conditions
+  authors:
+  - Jean-Baptiste Alberge
+  - Ankit K. Dutta
+  - Andrea Poletti
+  - Tim H. H. Coorens
+  - Elizabeth D. Lightbody
+  - Rosa Toenges
+  - Xavi Loinaz
+  - Sofia Wallin
+  - Andrew Dunford
+  - Oliver Priebe
+  - Johnathan Dagan
+  - Cody J. Boehner
+  - Erica Horowitz
+  - Nang K. Su
+  - Hadley Barr
+  - Laura Hevenor
+  - Katherine Towle
+  - Rashmika Beesam
+  - Jenna B. Beckwith
+  - Jacqueline Perry
+  - David M. Cordas dos Santos
+  - Luca Bertamini
+  - Patricia T. Greipp
+  - "Kirsten K\xFCbler"
+  - Peter F. Arndt
+  - Carolina Terragna
+  - Elena Zamagni
+  - Eileen M. Boyle
+  - Kwee Yong
+  - Gareth Morgan
+  - Brian A. Walker
+  - Meletios Athanasios Dimopoulos
+  - Efstathios Kastritis
+  - Julian Hess
+  - Romanos Sklavenitis-Pistofidis
+  - Chip Stewart
+  - Gad Getz
+  - Irene M. Ghobrial
+  publisher: Nature Genetics
+  date: '2025-05-21'
+  link: https://doi.org/g9kwk9
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.03.09.642284
+  title: 'SVelfie: A method for discovering cancer drivers based on enrichment of
+    likely functional structural variants'
+  authors:
+  - Xavi Loinaz
+  - Johnathan Dagan
+  - Jean-Baptiste Alberge
+  - Antonia Kowalewski
+  - Mendy Miller
+  - Julian M. Hess
+  - Esther Rheinbay
+  - Chip Stewart
+  - Gad Getz
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2025-03-10'
+  link: https://doi.org/hbwhnn
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1182/blood.2024026078
+  title: Serum free light chains in a racially diverse population including African
+    Americans and populations from South Africa
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Luca Bertamini
+  - Jean-Baptiste Alberge
+  - David J. Lee
+  - Habib El-Khoury
+  - Sungjae Kim
+  - Grace Fleming
+  - Ciara Murphy
+  - Julia Colchie
+  - Maya I. Davis
+  - Jacqueline Perry
+  - Elizabeth D. Lightbody
+  - Sabine Allam
+  - Lindokuhle N. Goqwana
+  - Vinitha Philip
+  - Natalie Smyth
+  - Dhananjay Sakrikar
+  - Mark Perkins
+  - Stephen Harding
+  - Derek Troske
+  - Gad Getz
+  - Elizabeth W. Karlson
+  - Nikhil Munshi
+  - Kenneth C. Anderson
+  - Lorenzo Trippa
+  - Catherine R. Marinac
+  - Wenlong C. Chen
+  - Maureen Joffe
+  - Irene M. Ghobrial
+  publisher: Blood
+  date: '2025-02-20'
+  link: https://doi.org/hbwhnp
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1038/s41467-024-55308-5
+  title: 'Deeper response predicts better outcomes in high-risk-smoldering-myeloma:
+    results of the I-PRISM phase II clinical trial'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Omar Nadeem
+  - Michelle P. Aranha
+  - Robert Redd
+  - Michael Timonian
+  - Sophie Magidson
+  - Elizabeth D. Lightbody
+  - Jean-Baptiste Alberge
+  - Luca Bertamini
+  - Ankit K. Dutta
+  - Habib El-Khoury
+  - Mark Bustoros
+  - Jacob P. Laubach
+  - Giada Bianchi
+  - "Elizabeth O\u2019Donnell"
+  - Ting Wu
+  - Junko Tsuji
+  - Kenneth C. Anderson
+  - Gad Getz
+  - Lorenzo Trippa
+  - Paul G. Richardson
+  - Romanos Sklavenitis-Pistofidis
+  - Irene M. Ghobrial
+  publisher: Nature Communications
+  date: '2025-01-03'
+  link: https://doi.org/hbwhnq
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1158/0008-5472.CAN-24-1440
+  title: "Selective Enhancer Gain-of-Function Deregulates\n                    <i>MYC</i>\n\
+    \                    Expression in Multiple Myeloma"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Mahshid Rahmat
+  - Kendell Clement
+  - Jean-Baptiste Alberge
+  - Romanos Sklavenitis-Pistofidis
+  - Rohan Kodgule
+  - Charles P. Fulco
+  - Daniel Heilpern-Mallory
+  - Katarina Nilsson
+  - David Dorfman
+  - Jesse M. Engreitz
+  - Gad Getz
+  - Luca Pinello
+  - Russell J.H. Ryan
+  - Irene M. Ghobrial
+  publisher: Cancer Research
+  date: '2024-09-23'
+  link: https://doi.org/hbwhnt
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1038/s41568-024-00755-x
+  title: New horizons in our understanding of precursor multiple myeloma and early
+    interception
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - David M. Cordas dos Santos
+  - Rosa Toenges
+  - Luca Bertamini
+  - Jean-Baptiste Alberge
+  - Irene M. Ghobrial
+  publisher: Nature Reviews Cancer
+  date: '2024-10-16'
+  link: https://doi.org/hbwhnw
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1182/bloodadvances.2023010843
+  title: Mass spectrometry-detected MGUS is associated with obesity and other novel
+    modifiable risk factors in a high-risk population
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - David J. Lee
+  - Habib El-Khoury
+  - Angela C. Tramontano
+  - Jean-Baptiste Alberge
+  - Jacqueline Perry
+  - Maya I. Davis
+  - Erica Horowitz
+  - Robert Redd
+  - Dhananjay Sakrikar
+  - David Barnidge
+  - Mark C. Perkins
+  - Stephen Harding
+  - Lorelei Mucci
+  - Timothy R. Rebbeck
+  - Irene M. Ghobrial
+  - Catherine R. Marinac
+  publisher: Blood Advances
+  date: '2024-03-29'
+  link: https://doi.org/hbh259
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1182/blood.2023021581
+  title: A p53 score derived from <i>TP53</i> CRISPR/Cas9 HMCLs predicts survival
+    and reveals a major role of BAX in the response to BH3 mimetics
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Romane Durand
+  - "G\xE9raldine Descamps"
+  - "C\xE9line Bellanger"
+  - Christelle Dousset
+  - "Sophie Ma\xEFga"
+  - Jean-Baptiste Alberge
+  - Jennifer Derrien
+  - Jonathan Cruard
+  - "St\xE9phane Minvielle"
+  - Nicoletta Libera Lilli
+  - Catherine Godon
+  - Yannick Le Bris
+  - Benoit Tessoulin
+  - Martine Amiot
+  - Patricia Gomez-Bougie
+  - Cyrille Touzeau
+  - Philippe Moreau
+  - David Chiron
+  - "Agn\xE8s Moreau-Aubry"
+  - Catherine Pellat-Deceunynck
+  publisher: Blood
+  date: '2024-03-28'
+  link: https://doi.org/hbwhnx
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1182/blood.2023020276
+  title: Integrated epigenetic and transcriptional single-cell analysis of t(11;14)
+    multiple myeloma and its BCL2 dependency
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - "No\xE9mie Leblay"
+  - Sungwoo Ahn
+  - "R\xE9mi Tilmont"
+  - Mansour Poorebrahim
+  - Ranjan Maity
+  - Holly Lee
+  - Elie Barakat
+  - Jean-Baptiste Alberge
+  - Sarthak Sinha
+  - Arzina Jaffer
+  - Benjamin G. Barwick
+  - Lawrence H. Boise
+  - Nizar Bahlis
+  - Paola Neri
+  publisher: Blood
+  date: '2024-01-04'
+  link: https://doi.org/hbwhnz
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1158/2159-8290.CD-22-0482
+  title: 'MinimuMM-seq: Genome Sequencing of Circulating Tumor Cells for Minimally
+    Invasive Molecular Characterization of Multiple Myeloma Pathology'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Ankit K. Dutta
+  - Jean-Baptiste Alberge
+  - Elizabeth D. Lightbody
+  - Cody J. Boehner
+  - Andrew Dunford
+  - Romanos Sklavenitis-Pistofidis
+  - Tarek H. Mouhieddine
+  - Annie N. Cowan
+  - Nang Kham Su
+  - Erica M. Horowitz
+  - Hadley Barr
+  - Laura Hevenor
+  - Jenna B. Beckwith
+  - Jacqueline Perry
+  - Amanda Cao
+  - Ziao Lin
+  - Frank K. Kuhr
+  - Richard G. Del Mastro
+  - Omar Nadeem
+  - Patricia T. Greipp
+  - Chip Stewart
+  - Daniel Auclair
+  - Gad Getz
+  - Irene M. Ghobrial
+  publisher: Cancer Discovery
+  date: '2022-12-07'
+  link: https://doi.org/hbwhn8
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13148-020-00953-y
+  title: DNA hydroxymethylation is associated with disease severity and persists at
+    enhancers of oncogenic regions in multiple myeloma
+  authors:
+  - Jean-Baptiste Alberge
+  - Florence Magrangeas
+  - Mirko Wagner
+  - "Soline Deni\xE9"
+  - "Catherine Gu\xE9rin-Charbonnel"
+  - "Lo\xEFc Campion"
+  - Michel Attal
+  - "Herv\xE9 Avet-Loiseau"
+  - Thomas Carell
+  - Philippe Moreau
+  - "St\xE9phane Minvielle"
+  - "Aur\xE9lien A. S\xE9randour"
+  publisher: Clinical Epigenetics
+  date: '2020-11-02'
+  link: https://doi.org/g95p29
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-026-71483-z
+  title: 'Daratumumab in high-risk MGUS and low-risk smoldering myeloma: results of
+    the Phase II D-PRISM study'
+  authors:
+  - Omar Nadeem
+  - Michelle P. Aranha
+  - Robert A. Redd
+  - Michael Koontz
+  - Jeffrey V. Matous
+  - Andrew J. Yee
+  - Jeffrey A. Zonder
+  - Andrew Kin
+  - Sophie Magidson
+  - Elizabeth D. Lightbody
+  - Ting Wu
+  - Floris Chabrun
+  - Jean-Baptiste Alberge
+  - Ankit K. Dutta
+  - Jacqueline Perry
+  - Ashlee Sturtevant
+  - Mahshid Rahmat
+  - Junko Tsuji
+  - Christine Davie
+  - Caroline Ricciardi
+  - Frances Arters
+  - Marjorie Marto
+  - Amy Bergeron
+  - Jacalyn Rosenblatt
+  - "Elizabeth K. O\u2019Donnell"
+  - Tarek H. Mouhieddine
+  - Lorena Pantano
+  - Jacob P. Laubach
+  - Paul G. Richardson
+  - Gad Getz
+  - Lorenzo Trippa
+  - Romanos Sklavenitis-Pistofidis
+  - Irene M. Ghobrial
+  publisher: Nature Communications
+  date: '2026-04-08'
+  link: https://doi.org/hbwhpj
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.1038/s41591-026-04304-x
+  title: Enhanced dynamic risk stratification of smoldering multiple myeloma
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Floris Chabrun
+  - Daniel E. Schwartz
+  - Susanna Gentile
+  - Elias K. Mai
+  - Tulika R. Gupta
+  - Jacqueline Perry
+  - David M. Cordas dos Santos
+  - Thomas Hielscher
+  - Annika Werly
+  - Sophia K. Schmidt
+  - Foteini Theodorakakou
+  - Despina Fotiou
+  - Christine Ivy Liacos
+  - Nikolaos Kanellias
+  - Noelia Collado Gisbert
+  - Esperanza Martin-Sanchez
+  - Rosalinda Termini
+  - Johannes Waldschmidt
+  - Selina J. Chavda
+  - Louise Ainley
+  - "Matteo Claudio Da Vi\xE0"
+  - Claudio De Magistris
+  - Loredana Pettine
+  - Michael A. Timonian
+  - Jean-Baptiste Alberge
+  - Vidhi Patel
+  - Patrick Costello
+  - Catherine Tobia
+  - Sally Phan
+  - Jennifer Lamb
+  - Maria-Theresa Silverio
+  - Maya Davis
+  - "Elizabeth K. O\u2019Donnell"
+  - Catherine R. Marinac
+  - Omar Nadeem
+  - Niccolo Bolli
+  - Kwee Yong
+  - "K. Martin Kort\xFCm"
+  - Hermann Einsele
+  - "Mar\xEDa-Victoria Mateos"
+  - Shaji Kumar
+  - "Jes\xFAs F. San-Miguel"
+  - Bruno Paiva
+  - Efstathios Kastritis
+  - Meletios A. Dimopoulos
+  - Marc S. Raab
+  - Lorenzo Trippa
+  - Irene M. Ghobrial
+  publisher: Nature Medicine
+  date: '2026-03-24'
+  link: https://doi.org/hbtm8r
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1093/bib/bbaf516
+  title: 'Numbat-multiome: inferring copy number variations by combining RNA and chromatin
+    accessibility information from single-cell data'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Ruitong Li
+  - Jean-Baptiste Alberge
+  - Tina Keshavarzian
+  - Junko Tsuji
+  - Johan Gustafsson
+  - Mahshid Rahmat
+  - Elizabeth D Lightbody
+  - Stephanie L Deng
+  - Santiago Riviero
+  - Mendy Miller
+  - F Naz Cemre Kalayci
+  - Adrian Wiestner
+  - Clare Sun
+  - Mathieu Lupien
+  - Irene Ghobrial
+  - Erin Parry
+  - Teng Gao
+  - Gad Getz
+  publisher: Briefings in Bioinformatics
+  date: '2025-08-31'
+  link: https://doi.org/hbwhpm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/bloodadvances.2023010869
+  title: "Inhibition of MICA and MICB shedding enhances memory-like NK-cell\u2013\
+    mediated cytotoxicity against multiple myeloma"
+  authors:
+  - Sabrin Tahri
+  - Sara Piccinelli
+  - Nang Kham Su
+  - Luisa Lampe
+  - Han Dong
+  - Juliana Vergara Cadavid
+  - Rebecca Boiarsky
+  - Natalie Papazian
+  - Elizabeth D. Lightbody
+  - Amanda Cao
+  - Jean-Baptiste Alberge
+  - Lucas Ferrari de Andrade
+  - Mahshid Rahmat
+  - Yujia Shen
+  - "Laura Blanco Fern\xE1ndez"
+  - Aintzane Zabaleta
+  - "Andreas G\xFCnther"
+  - Gad Getz
+  - Pieter Sonneveld
+  - Tom Cupedo
+  - Kai W. Wucherpfennig
+  - Irene M. Ghobrial
+  - Rizwan Romee
+  publisher: Blood Advances
+  date: '2024-10-11'
+  link: https://doi.org/hbwhpn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41591-024-03084-6
+  title: A systematic review and meta-analysis of nonrelapse mortality after CAR T
+    cell therapy
+  authors:
+  - David M. Cordas dos Santos
+  - Tobias Tix
+  - Roni Shouval
+  - Anat Gafter-Gvili
+  - Jean-Baptiste Alberge
+  - Edward R. Scheffer Cliff
+  - Sebastian Theurich
+  - Michael von Bergwelt-Baildon
+  - Irene M. Ghobrial
+  - Marion Subklewe
+  - Miguel-Angel Perales
+  - Kai Rejeski
+  publisher: Nature Medicine
+  date: '2024-07-08'
+  link: https://doi.org/gt3xc2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41591-023-02491-5
+  title: Mechanisms of antigen escape from BCMA- or GPRC5D-targeted immunotherapies
+    in multiple myeloma
+  authors:
+  - Holly Lee
+  - Sungwoo Ahn
+  - Ranjan Maity
+  - Noemie Leblay
+  - Bachisio Ziccheddu
+  - Marietta Truger
+  - Monika Chojnacka
+  - Anthony Cirrincione
+  - Michael Durante
+  - Remi Tilmont
+  - Elie Barakat
+  - Mansour Poorebrahim
+  - Sarthak Sinha
+  - John McIntyre
+  - Angela M.Y. Chan
+  - Holly Wilson
+  - Shari Kyman
+  - Amrita Krishnan
+  - Ola Landgren
+  - Wencke Walter
+  - Manja Meggendorfer
+  - Claudia Haferlach
+  - Torsten Haferlach
+  - Hermann Einsele
+  - "Martin K. Kort\xFCm"
+  - Stefan Knop
+  - Jean Baptiste Alberge
+  - Andreas Rosenwald
+  - Jonathan J. Keats
+  - Leo Rasche
+  - Francesco Maura
+  - Paola Neri
+  - Nizar J. Bahlis
+  publisher: Nature Medicine
+  date: '2023-08-31'
+  link: https://doi.org/gs5f9d
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.26508/lsa.202302195
+  title: Exploring the impact of dexamethasone on gene regulation in myeloma cells
+  authors:
+  - Victor Bessonneau-Gaborit
+  - Jonathan Cruard
+  - Catherine Guerin-Charbonnel
+  - Jennifer Derrien
+  - Jean-Baptiste Alberge
+  - Elise Douillard
+  - Magali Devic
+  - Sophie Deshayes
+  - "Lo\xEFc Campion"
+  - Frank Westermann
+  - Phillipe Moreau
+  - Carl Herrmann
+  - "J\xE9r\xE9mie Bourdon"
+  - Florence Magrangeas
+  - "St\xE9phane Minvielle"
+  publisher: Life Science Alliance
+  date: '2023-07-31'
+  link: https://doi.org/hbwhpp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-022-33944-z
+  title: Single cell characterization of myeloma and its precursor conditions reveals
+    transcriptional signatures of early tumorigenesis
+  authors:
+  - Rebecca Boiarsky
+  - Nicholas J. Haradhvala
+  - Jean-Baptiste Alberge
+  - Romanos Sklavenitis-Pistofidis
+  - Tarek H. Mouhieddine
+  - Oksana Zavidij
+  - Ming-Chieh Shih
+  - Danielle Firer
+  - Mendy Miller
+  - Habib El-Khoury
+  - Shankara K. Anand
+  - "Fran\xE7ois Aguet"
+  - David Sontag
+  - Irene M. Ghobrial
+  - Gad Getz
+  publisher: Nature Communications
+  date: '2022-11-17'
+  link: https://doi.org/g8q7gn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S2352-3026(22)00069-2
+  title: 'Prevalence of monoclonal gammopathies and clinical outcomes in a high-risk
+    US population screened by mass spectrometry: a multicentre cohort study'
+  authors:
+  - Habib El-Khoury
+  - David J Lee
+  - Jean-Baptiste Alberge
+  - Robert Redd
+  - Christian J Cea-Curry
+  - Jacqueline Perry
+  - Hadley Barr
+  - Ciara Murphy
+  - Dhananjay Sakrikar
+  - David Barnidge
+  - Mark Bustoros
+  - Houry Leblebjian
+  - Anna Cowan
+  - Maya I Davis
+  - Julia Amstutz
+  - Cody J Boehner
+  - Elizabeth D Lightbody
+  - Romanos Sklavenitis-Pistofidis
+  - Mark C Perkins
+  - Stephen Harding
+  - Clifton C Mo
+  - Prashant Kapoor
+  - Joseph Mikhael
+  - Ivan M Borrello
+  - Rafael Fonseca
+  - Scott T Weiss
+  - Elizabeth Karlson
+  - Lorenzo Trippa
+  - Timothy R Rebbeck
+  - Gad Getz
+  - Catherine R Marinac
+  - Irene M Ghobrial
+  publisher: The Lancet Haematology
+  date: '2022-05-01'
+  link: https://doi.org/hbwhpq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2967/jnumed.121.262884
+  title: 'Molecular Signature of <sup>18</sup>F-FDG PET Biomarkers in Newly Diagnosed
+    Multiple Myeloma Patients: A Genome-Wide Transcriptome Analysis from the CASSIOPET
+    Study'
+  authors:
+  - Jean-Baptiste Alberge
+  - "Fran\xE7oise Kraeber-Bod\xE9r\xE9"
+  - Bastien Jamet
+  - Cyrille Touzeau
+  - "H\xE9l\xE8ne Caillon"
+  - Soraya Wuilleme
+  - "Marie-Christine B\xE9n\xE9"
+  - Tobias Kampfenkel
+  - Pieter Sonneveld
+  - Mark van Duin
+  - Herve Avet-Loiseau
+  - Jill Corre
+  - Florence Magrangeas
+  - Thomas Carlier
+  - Caroline Bodet-Milin
+  - "Michel Ch\xE9rel"
+  - Philippe Moreau
+  - "St\xE9phane Minvielle"
+  - "Cl\xE9ment Bailly"
+  publisher: Journal of Nuclear Medicine
+  date: '2022-01-27'
+  link: https://doi.org/hbwhpr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41571-021-00593-y
+  title: "Single-cell profiling of tumour evolution in multiple myeloma \u2014 opportunities\
+    \ for precision medicine"
+  authors:
+  - Ankit K. Dutta
+  - Jean-Baptiste Alberge
+  - Romanos Sklavenitis-Pistofidis
+  - Elizabeth D. Lightbody
+  - Gad Getz
+  - Irene M. Ghobrial
+  publisher: Nature Reviews Clinical Oncology
+  date: '2022-01-11'
+  link: https://doi.org/gn7v87
   plugin: sources.py
   file: sources.yaml

@@ -6,6 +6,7 @@ affiliation: Gustave Roussy
 aliases:
   - JB Alberge
   - J.-B. Alberge
+  - Jean-Baptiste Alberge
 links:
   home-page: https://gustaveroussy.github.io/alberge-lab-website/
   orcid: 0000-0002-4218-7294
