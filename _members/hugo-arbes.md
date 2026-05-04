@@ -1,7 +1,7 @@
 ---
 name: Hugo Arbes
 image: images/people/hugo-arbes-picture.jpg
-role: Bioinformatics engineer
+role: programmer
 affiliation: Gustave Roussy
 aliases:
   - H Arbes
