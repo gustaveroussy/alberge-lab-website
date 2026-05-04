@@ -14,8 +14,11 @@ Our team members will soon upload their profile using git pull requests! :-)
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+
+{% include list.html data="members" component="portrait" filter="role == 'comp-bio'" %}
+
+{% include list.html data="members" component="portrait" filter="role == 'intern'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
