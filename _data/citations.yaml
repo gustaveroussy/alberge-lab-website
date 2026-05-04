@@ -11,6 +11,64 @@
   jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/S41591-026-04304-X
+  title: Enhanced dynamic risk stratification of smoldering multiple myeloma
+  authors:
+  - Floris Chabrun
+  - Daniel E. Schwartz
+  - Susanna Gentile
+  - Elias K. Mai
+  - Tulika R. Gupta
+  - Jacqueline Perry
+  - David M. Cordas dos Santos
+  - Thomas Hielscher
+  - Annika Werly
+  - Sophia K. Schmidt
+  - Foteini Theodorakakou
+  - Despina Fotiou
+  - Christine Ivy Liacos
+  - Nikolaos Kanellias
+  - Noelia Collado Gisbert
+  - Esperanza Martin-Sanchez
+  - Rosalinda Termini
+  - Johannes Waldschmidt
+  - Selina J. Chavda
+  - Louise Ainley
+  - "Matteo Claudio Da Vi\xE0"
+  - Claudio De Magistris
+  - Loredana Pettine
+  - Michael A. Timonian
+  - Jean-Baptiste Alberge
+  - Vidhi Patel
+  - Patrick Costello
+  - Catherine Tobia
+  - Sally Phan
+  - Jennifer Lamb
+  - Maria-Theresa Silverio
+  - Maya Davis
+  - "Elizabeth K. O\u2019Donnell"
+  - Catherine R. Marinac
+  - Omar Nadeem
+  - Niccolo Bolli
+  - Kwee Yong
+  - "K. Martin Kort\xFCm"
+  - Hermann Einsele
+  - "Mar\xEDa-Victoria Mateos"
+  - Shaji Kumar
+  - "Jes\xFAs F. San-Miguel"
+  - Bruno Paiva
+  - Efstathios Kastritis
+  - Meletios A. Dimopoulos
+  - Marc S. Raab
+  - Lorenzo Trippa
+  - Irene M. Ghobrial
+  publisher: Nature Medicine
+  date: '2026-03-24'
+  link: https://doi.org/hbtm8r
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s43018-025-01006-0
   title: SWIFT-seq enables comprehensive single-cell transcriptomic profiling of circulating
     tumor cells in multiple myeloma and its precursors
@@ -234,6 +292,383 @@
   jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/S41588-025-02199-X
+  title: A simple genomic score to predict progression of multiple myeloma
+  authors: []
+  publisher: Nature Genetics
+  date: '2025-05-30'
+  link: https://doi.org/hbzkjb
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2025-1027
+  title: FAM46C/Tent5c inactivation accelerates multiple myeloma progression from
+    early stages and remodels the bone marrow immune microenvironment in preclinical
+    models
+  authors:
+  - Carmen Vicente
+  - Marta Larrayoz
+  - Bachisio Ziccheddu
+  - Jean-Baptiste Alberge
+  - Ion Celay
+  - Carmen Gil
+  - Maddalen Jimenez
+  - Sonia Sanz
+  - Maria Jose Garcia-Barchino
+  - Irati Alsua
+  - Juan-Jose Garces
+  - Romanos Sklavenitis-Pistofidis
+  - Jesus San-Miguel
+  - Paula Rodriguez-Otero
+  - Saad Usmani
+  - Gad Getz
+  - Irene Ghobrial
+  - Bruno Paiva
+  - Francesco Maura
+  - Felipe Prosper
+  - Jose A. Martinez-Climent
+  publisher: Blood
+  date: '2025-11-03'
+  link: https://doi.org/hbzkjc
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2025-3930
+  title: Identification of persister cells and evolution of tumor clones during immunotherapy
+    and at minimal residual disease timepoints decoded by single-cell whole-genome
+    sequencing in multiple myeloma
+  authors:
+  - Rosa Toenges
+  - Jean-Baptiste Alberge
+  - Tomoki Iemura
+  - Francesco Corrado
+  - Nayda Bidikian
+  - David Cordas Dos Santos
+  - Ankit Dutta
+  - Romanos Sklavenitis-Pistofidis
+  - Subear Hussein
+  - Carlson Ketcham
+  - Sophie Magidson
+  - Shonali Midha
+  - Elizabeth O'Donnell
+  - Adam Sperling
+  - Jacob Laubach
+  - Kenneth Anderson
+  - Eric Smith
+  - Nikhil Munshi
+  - Omar Nadeem
+  - Gad Getz
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2025-11-03'
+  link: https://doi.org/hbzkjd
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001594348400045
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001594348400045
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2025-582
+  title: Monoclonal gammopathy of indeterminate potential (MGIP) as a stable premalignant
+    entity preceding hematologic malignancy
+  authors:
+  - Sungjae Kim
+  - Sabine Allam
+  - Yoshinobu Konishi
+  - Floris Chabrun
+  - Jean-Baptiste Alberge
+  - Luca Bertamini
+  - Habib El-Khoury
+  - Junko Tsuji
+  - Romanos Sklavenitis-Pistofidis
+  - Rosa Toenges
+  - Elizabeth Lightbody
+  - Michael Timonian
+  - Uday Aditya Sarkar
+  - Michelle Aranha
+  - Jacqueline Perry
+  - Ting Wu
+  - Grace Fleming
+  - Joseph Flinn
+  - Mendy Miller
+  - Nikhil Munshi
+  - Kenneth Anderson
+  - Omar Nadeem
+  - Catherine Marinac
+  - Jennifer Brown
+  - Paolo Ghia
+  - Gad Getz
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2025-11-03'
+  link: https://doi.org/hbzkjf
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/BIB/BBAF516
+  title: 'Numbat-multiome: inferring copy number variations by combining RNA and chromatin
+    accessibility information from single-cell data'
+  authors:
+  - Ruitong Li
+  - Jean-Baptiste Alberge
+  - Tina Keshavarzian
+  - Junko Tsuji
+  - Johan Gustafsson
+  - Mahshid Rahmat
+  - Elizabeth D Lightbody
+  - Stephanie L Deng
+  - Santiago Riviero
+  - Mendy Miller
+  - F Naz Cemre Kalayci
+  - Adrian Wiestner
+  - Clare Sun
+  - Mathieu Lupien
+  - Irene Ghobrial
+  - Erin Parry
+  - Teng Gao
+  - Gad Getz
+  publisher: Briefings in Bioinformatics
+  date: '2025-08-31'
+  link: https://doi.org/hbwhpm
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001592082800064
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001592082800064
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2025-349
+  title: Relapsed diffuse large B-cell lymphoma is shaped by molecular subtypes and
+    genomic alterations
+  authors:
+  - Eleonora Calabretta
+  - Xuan Zhao
+  - Chip Stewart
+  - Jennifer Crombie
+  - Marianna Palazzo
+  - Tianfang Ma
+  - Audrey Li
+  - Jean-Baptiste Alberge
+  - Kyle Wright
+  - Scott Rodig
+  - Richard Burack
+  - Patrick Reagan
+  - David Meredith
+  - Lakshmi Nayak
+  - Abner Louissaint
+  - Alex Herrera
+  - Joo Song
+  - "Bj\xF6rn Chapuy"
+  - Xavi Loinaz
+  - Geoffrey Shouse
+  - Philip Rock
+  - Carmelo Carlo-Stella
+  - Gad Getz
+  - Margaret Shipp
+  publisher: Blood
+  date: '2025-11-03'
+  link: https://doi.org/hbzkjg
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2025-1533
+  title: 'Results of the Phase II d-PRISM study: Daratumumab in high-risk MGUS and
+    low-risk smoldering myeloma'
+  authors:
+  - Omar Nadeem
+  - Michelle Aranha
+  - Robert Redd
+  - Michael Koontz
+  - Jeffrey Matous
+  - Andrew Yee
+  - Jeffrey Zonder
+  - Andrew Kin
+  - Sophie Magidson
+  - Elizabeth Lightbody
+  - Ting Wu
+  - Floris Chabrun
+  - Jean-Baptiste Alberge
+  - Ankit Dutta
+  - Jacqueline Perry
+  - Ashlee Sturtevant
+  - Mahshid Rahmat
+  - Junko Tsuji
+  - Christine Davie
+  - Caroline Ricciardi
+  - Frances Arters
+  - Marjorie Marto
+  - Amy Goguen
+  - Jacalyn Rosenblatt
+  - Elizabeth O'Donnell
+  - Jacob Laubach
+  - Paul Richardson
+  - Gad Getz
+  - Lorenzo Trippa
+  - Romanos Sklavenitis-Pistofidis
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2025-11-03'
+  link: https://doi.org/hbzkjh
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2025-403
+  title: Results of the promise study from ~30,000 individuals screened for monoclonal
+    gammopathies
+  authors:
+  - Sabine Allam
+  - Sungjae Kim
+  - Jean-Baptiste Alberge
+  - Habib El-Khoury
+  - Floris Chabrun
+  - Jacqueline Perry
+  - Katherine Padgett
+  - Julia Colchie
+  - Joseph Flinn
+  - Grace Fleming
+  - Rachel Choi
+  - Kaitlin Bondi
+  - Ciara Murphy
+  - Sofia Wallin
+  - Luca Bertamini
+  - David Lee
+  - Derek Troske
+  - Dhananjay Sakrikar
+  - David Barnidge
+  - Stephen Harding
+  - David Cordas Dos Santos
+  - Romanos Sklavenitis-Pistofidis
+  - Meletios Dimopoulos
+  - Efstathios Kastritis
+  - Irit Avivi
+  - Wenlong Chen
+  - Maureen Joffe
+  - Elizabeth Karlson
+  - Elizabeth O'Donnell
+  - Omar Nadeem
+  - Lorenzo Trippa
+  - Catherine Marinac
+  - Gad Getz
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2025-11-03'
+  link: https://doi.org/hbzkjj
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2025-4578
+  title: Risk factors and prevalence of monoclonal gammopathy of undetermined significance
+    (MGUS) by duffy genotype
+  authors:
+  - Lauren Merz
+  - Sabine Allam
+  - Sungjae Kim
+  - Jean-Baptiste Alberge
+  - Jacqueline Perry
+  - David Lee
+  - Katherine Padgett
+  - Julia Colchie
+  - Omar Nadeem
+  - Irene Ghobrial
+  - Paul Richardson
+  publisher: Blood
+  date: '2025-11-03'
+  link: https://doi.org/hbzkjk
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2025-2015
+  title: 'Abstract 2015: Single-cell atlas of tumor and immune cells in disease progression
+    from MGUS to MM'
+  authors:
+  - Romanos Sklavenitis-Pistofidis
+  - Ting Wu
+  - Elizabeth Lightbody
+  - Yoshinobu Konishi
+  - Mahshid Rahmat
+  - Michael Agius
+  - Junko Tsuji
+  - Jean-Baptiste Alberge
+  - Ankit Dutta
+  - Michelle Aranha
+  - Nayda Bidikian
+  - Hadley Barr
+  - Nicholas Haradhvala
+  - Gad Getz
+  - Irene Ghobrial
+  publisher: Cancer Research
+  date: '2025-04-21'
+  link: https://doi.org/hbzkjm
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2025-921
+  title: Single-cell immune profiling reveals enhanced immune fitness of endogenous
+    and engineered T cells in patients with high-risk smoldering myeloma compared
+    to Relapsed/Refractory myeloma following bispecific antibodies or CAR-T cell therapies.
+  authors:
+  - Francesco Corrado
+  - Nayda Bidikian
+  - Anna Bosch-Vilaseca
+  - Yoshinobu Konishi
+  - Rosa Toenges
+  - Jean-Baptiste Alberge
+  - Ting Wu
+  - Sophie Magidson
+  - Lorena Pantano
+  - Michelle Aranha
+  - Elizabeth Lightbody
+  - Joseph Flinn
+  - Michael Timonian
+  - David Cordas Dos Santos
+  - Rocio Montes De Oca
+  - Tamar Lengil
+  - Diego Vieyra
+  - Mark Wildgust
+  - Vicki Plaks
+  - Denise De Wiest
+  - Kevin De Braganca
+  - Shonali Midha
+  - Elizabeth O'Donnell
+  - Yuxin Liu
+  - Ashlee Sturtevant
+  - Kenneth Anderson
+  - Nikhil Munshi
+  - Jerome Ritz
+  - Omar Nadeem
+  - Gad Getz
+  - Romanos Sklavenitis-Pistofidis
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2025-11-03'
+  link: https://doi.org/hbzkjn
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-24-1440
   title: "Selective Enhancer Gain-of-Function Deregulates\n                    <i>MYC</i>\n\
     \                    Expression in Multiple Myeloma"
@@ -275,34 +710,49 @@
   jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1182/bloodadvances.2023010843
-  title: Mass spectrometry-detected MGUS is associated with obesity and other novel
-    modifiable risk factors in a high-risk population
+- id: doi:10.1182/BLOOD-2024-203517
+  title: A 1,000-Genome Map for Multiple Myeloma and Its Precursor Stages, and Its
+    Impact on Clinical Outcome
   authors:
-  - David J. Lee
-  - Habib El-Khoury
-  - Angela C. Tramontano
   - Jean-Baptiste Alberge
+  - Ankit K. Dutta
+  - Andrea Poletti
+  - Tim H.H. Coorens
+  - Elizabeth D. Lightbody
+  - Rosa Toenges
+  - Xavi Loinaz
+  - Sofia Wallin
+  - Andrew Dunford
+  - Oliver Priebe
+  - Cody J. Boehner
+  - Erica M. Horowitz
+  - Nang Kham Su
+  - Hadley Barr
+  - Laura Hevenor
+  - Katherine Towle
+  - Rashmika Beesam
+  - Jenna D. Beckwith
   - Jacqueline Perry
-  - Maya I. Davis
-  - Erica Horowitz
-  - Robert Redd
-  - Dhananjay Sakrikar
-  - David Barnidge
-  - Mark C. Perkins
-  - Stephen Harding
-  - Lorelei Mucci
-  - Timothy R. Rebbeck
-  - Irene M. Ghobrial
-  - Catherine R. Marinac
-  publisher: Blood Advances
-  date: '2024-03-29'
-  link: https://doi.org/hbh259
+  - David M. Cordas dos Santos
+  - Luca Bertamini
+  - Patricia Greipp
+  - "Kirsten K\xFCbler"
+  - Peter F. Arndt
+  - Carolina Terragna
+  - Elena Zamagni
+  - Julian Hess
+  - Romanos Sklavenitis-Pistofidis
+  - Chip Stewart
+  - Gad Getz
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2024-11-05'
+  link: https://doi.org/hbzkjp
   orcid: 0000-0002-4218-7294
   jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1182/blood.2023021581
+- id: doi:10.1182/BLOOD.2023021581
   title: A p53 score derived from <i>TP53</i> CRISPR/Cas9 HMCLs predicts survival
     and reveals a major role of BAX in the response to BH3 mimetics
   authors:
@@ -333,7 +783,187 @@
   jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1182/blood.2023020276
+- id: doi:10.1038/S41591-024-03084-6
+  title: A systematic review and meta-analysis of nonrelapse mortality after CAR T
+    cell therapy
+  authors:
+  - David M. Cordas dos Santos
+  - Tobias Tix
+  - Roni Shouval
+  - Anat Gafter-Gvili
+  - Jean-Baptiste Alberge
+  - Edward R. Scheffer Cliff
+  - Sebastian Theurich
+  - Michael von Bergwelt-Baildon
+  - Irene M. Ghobrial
+  - Marion Subklewe
+  - Miguel-Angel Perales
+  - Kai Rejeski
+  publisher: Nature Medicine
+  date: '2024-07-08'
+  link: https://doi.org/gt3xc2
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.SABCS23-GS03-09
+  title: 'Abstract GS03-09: Characterization and proposed therapeutic exploitation
+    of fusion RNAs in metastatic breast cancers'
+  authors:
+  - Nolan Priedigkeit
+  - "Alin\xE9s Lebr\xF3n-Torres"
+  - Janny Liao
+  - Jean-Baptiste Alberge
+  - Stefania Morganti
+  - Jakob Weiss
+  - Jorge Gomez Tejeda Zanudo
+  - Albert Grinshpun
+  - Melissa Hughes
+  - Karla Helvie
+  - Kerry Sendrick
+  - Kyleen Nguyen
+  - Sarah Strauss
+  - Janet Files
+  - Maxwell Lloyd
+  - Nikhil Wagle
+  - Chip Stewart
+  - Eric Winer
+  - Bruce Johnson
+  - Yvonne Li
+  - Rinath Jeselsohn
+  - Sara Tolaney
+  - Daniel Abravanel
+  - Nancy Lin
+  - Heather Parsons
+  - Gad Getz
+  - Steffi Oesterreich
+  - Adrian Lee
+  - Todd Golub
+  publisher: Cancer Research
+  date: '2024-05-02'
+  link: https://doi.org/hbzkjq
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2024-194368
+  title: Deep Learning Unveils Characteristics of Immune B Cell Aging in &amp;gt;17,000
+    Samples and Identifies Changes in the Immunoglobulin Repertoire Distribution and
+    the Development of Monoclonal Gammopathy
+  authors:
+  - Floris Chabrun
+  - Jean-Baptiste Alberge
+  - Sabine Allam
+  - Jacqueline F Perry
+  - Habib El-Khoury
+  - David J Lee
+  - Michael Timonian
+  - Luca Bertamini
+  - Hadley Barr
+  - Grace Fleming
+  - Joseph Casey Flinn
+  - Ciara Murphy
+  - Sofia Wallin
+  - Hiba Hussain
+  - Elizabeth D. Lightbody
+  - Sungjae Kim
+  - Mark C Perkins
+  - Stephen J. Harding
+  - Dhananjay Sakrikar
+  - Romanos Sklavenitis Pistofidis
+  - Kenneth C. Anderson
+  - Omar Nadeem
+  - Elizabeth K. O'Donnell
+  - Yuxin Liu
+  - Wenlong Chen
+  - Maureen Joffe
+  - Benjamin Levine Ebert
+  - Catherine R. Marinac
+  - Gad Getz
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2024-11-05'
+  link: https://doi.org/hbzkjr
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2024-203937
+  title: Early Serum Protein Clonal Dynamics Preceding Monoclonal Gammopathy of Undetermined
+    Significance and Multiple Myeloma Years before Diagnosis
+  authors:
+  - Sabine Allam
+  - Floris Chabrun
+  - Jean-Baptiste Alberge
+  - Grace Fleming
+  - Sungjae Kim
+  - Yoshinobu Konishi
+  - Habib El-Khoury
+  - Luca Bertamini
+  - Sofia Wallin
+  - Joseph Casey Flinn
+  - Dhananjay Sakrikar
+  - Derek Troske
+  - David Barnidge
+  - Mark C Perkins
+  - Stephen J. Harding
+  - Romanos Sklavenitis-Pistofidis
+  - Paolo Ghia
+  - Catherine R. Marinac
+  - Gad Getz
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2024-11-05'
+  link: https://doi.org/hbzkjs
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001325737900011
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001325737900011
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOODADVANCES.2023010869
+  title: "Inhibition of MICA and MICB shedding enhances memory-like NK-cell\u2013\
+    mediated cytotoxicity against multiple myeloma"
+  authors:
+  - Sabrin Tahri
+  - Sara Piccinelli
+  - Nang Kham Su
+  - Luisa Lampe
+  - Han Dong
+  - Juliana Vergara Cadavid
+  - Rebecca Boiarsky
+  - Natalie Papazian
+  - Elizabeth D. Lightbody
+  - Amanda Cao
+  - Jean-Baptiste Alberge
+  - Lucas Ferrari de Andrade
+  - Mahshid Rahmat
+  - Yujia Shen
+  - "Laura Blanco Fern\xE1ndez"
+  - Aintzane Zabaleta
+  - "Andreas G\xFCnther"
+  - Gad Getz
+  - Pieter Sonneveld
+  - Tom Cupedo
+  - Kai W. Wucherpfennig
+  - Irene M. Ghobrial
+  - Rizwan Romee
+  publisher: Blood Advances
+  date: '2024-10-11'
+  link: https://doi.org/hbwhpn
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD.2023020276
   title: Integrated epigenetic and transcriptional single-cell analysis of t(11;14)
     multiple myeloma and its BCL2 dependency
   authors:
@@ -354,6 +984,406 @@
   publisher: Blood
   date: '2024-01-04'
   link: https://doi.org/hbwhnz
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.04.19.24306082
+  title: Long-Term Follow-Up Defines the Population That Benefits from Early Interception
+    in a High-Risk Smoldering Multiple Myeloma Clinical Trial Using the Combination
+    of Ixazomib, Lenalidomide, and Dexamethasone
+  authors:
+  - Omar Nadeem
+  - Michelle P. Aranha
+  - Robert Redd
+  - Michael Timonian
+  - Sophie Magidson
+  - Elizabeth D. Lightbody
+  - Jean-Baptiste Alberge
+  - Luca Bertamini
+  - Ankit K. Dutta
+  - Habib El-Khoury
+  - Mark Bustoros
+  - Jacob P. Laubach
+  - Giada Bianchi
+  - "Elizabeth O\u2019Donnell"
+  - Ting Wu
+  - Junko Tsuji
+  - Kenneth Anderson
+  - Gad Getz
+  - Lorenzo Trippa
+  - Paul G. Richardson
+  - Romanos Sklavenitis-Pistofidis
+  - Irene M. Ghobrial
+  publisher: openRxiv
+  date: '2024-04-19'
+  link: https://doi.org/hbzkjt
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2024-207299
+  title: Longitudinal Single-Cell Immune Profiling Reveals Distinct Dynamics of Response
+    to Teclistamab in Patients with High-Risk Smoldering Myeloma Compared to Relapsed-Refractory
+    Multiple Myeloma
+  authors:
+  - Nayda Bidikian
+  - Francesco Corrado
+  - Romanos Sklavenitis-Pistofidis
+  - Yoshinobu Konishi
+  - Rosa Toenges
+  - Jean-Baptiste Alberge
+  - Michelle P. Aranha
+  - Ting Wu
+  - Michael Timonian
+  - Shonali Midha
+  - Elizabeth K. O'Donnell
+  - Yuxin Liu
+  - Sophie Magidson
+  - Ashlee Strutevant
+  - Kenneth C. Anderson
+  - Nikhil C. Munshi
+  - Omar Nadeem
+  - Gad Getz
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2024-11-05'
+  link: https://doi.org/hbzkjv
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOODADVANCES.2023010843
+  title: Mass spectrometry-detected MGUS is associated with obesity and other novel
+    modifiable risk factors in a high-risk population
+  authors:
+  - David J. Lee
+  - Habib El-Khoury
+  - Angela C. Tramontano
+  - Jean-Baptiste Alberge
+  - Jacqueline Perry
+  - Maya I. Davis
+  - Erica Horowitz
+  - Robert Redd
+  - Dhananjay Sakrikar
+  - David Barnidge
+  - Mark C. Perkins
+  - Stephen Harding
+  - Lorelei Mucci
+  - Timothy R. Rebbeck
+  - Irene M. Ghobrial
+  - Catherine R. Marinac
+  publisher: Blood Advances
+  date: '2024-03-29'
+  link: https://doi.org/hbh259
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2024-205523
+  title: Novel Non-Coding Candidate Drivers of Multiple Myeloma Linked to Plasma Cell
+    Tumor Biology and B Cell Development
+  authors:
+  - Jean-Baptiste Alberge
+  - Ankit K. Dutta
+  - Andrea Poletti
+  - Oliver Priebe
+  - Tim H.H. Coorens
+  - Elizabeth D. Lightbody
+  - Rosa Toenges
+  - Xavi Loinaz
+  - Sofia Wallin
+  - Andrew Dunford
+  - Cody J. Boehner
+  - Erica M. Horowitz
+  - Nang Kham Su
+  - Hadley Barr
+  - Laura Hevenor
+  - Katherine Towle
+  - Rashmika Beesam
+  - Jenna D. Beckwith
+  - Jacqueline Perry
+  - David M. Cordas dos Santos
+  - Luca Bertamini
+  - "Kirsten K\xFCbler"
+  - Carolina Terragna
+  - Elena Zamagni
+  - Julian Hess
+  - Romanos Sklavenitis-Pistofidis
+  - Chip Stewart
+  - Gad Getz
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2024-11-05'
+  link: https://doi.org/hbzkjw
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001325737900041
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001325737900041
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2024-206540
+  title: Single-Cell Profiling of ~1.7 Million Plasma Cells across &amp;gt;250 Individuals
+    Reveals Transcriptional Signatures of Progression and Clonal Expansion in Multiple
+    Myeloma and Its Precursor Stages
+  authors:
+  - Junko Tsuji
+  - Elizabeth D. Lightbody
+  - Romanos Sklavenitis-Pistofidis
+  - Ting Wu
+  - Michael P. Agius
+  - Danielle T. Firer
+  - Mahshid Rahmat
+  - Hadley Barr
+  - Yoshinobu Konishi
+  - Ankit K. Dutta
+  - Jean-Baptiste Alberge
+  - Nang Kham Su
+  - Cody J. Boehner
+  - Michelle P. Aranha
+  - Laura Hevenor
+  - Katherine Towle
+  - Erica M. Horowitz
+  - Maya Davis
+  - Jacqueline F Perry
+  - Francois Aguet
+  - Ruitong Li
+  - Sungjae Kim
+  - Nicholas J. Haradhvala
+  - Rebecca Boiarsky
+  - Gad Getz
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2024-11-05'
+  link: https://doi.org/hbzkjx
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2024-208837
+  title: Single-Cell RNA-Sequencing of 6 Million Tumor and Immune Cells in 365 Patients
+    with MGUS and SMM Demonstrates Complex Progressive Changes in Immune Cell Functionality
+    with a Distinct Footprint on Tumor Cell Biology and Disease Control
+  authors:
+  - Romanos Sklavenitis-Pistofidis
+  - Ting Wu
+  - Elizabeth D. Lightbody
+  - Yoshinobu Konishi
+  - Mahshid Rahmat
+  - Michael P. Agius
+  - Junko Tsuji
+  - Jean-Baptiste Alberge
+  - Michael Timonian
+  - Ankit K. Dutta
+  - Michelle P. Aranha
+  - Nayda Bidikian
+  - Hadley Barr
+  - Nicholas J. Haradhvala
+  - Moshe Sade-Feldman
+  - Gad Getz
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2024-11-05'
+  link: https://doi.org/hbzkjz
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001325737900043
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001325737900043
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2024-204132
+  title: Single-Cell Whole-Genome Sequencing of Circulating Tumor Cells in Relapsed/Refractory
+    Multiple Myeloma Patients Receiving BCMA- or GPRC5D-Targeted Immunotherapies
+  authors:
+  - Rosa Toenges
+  - Jean-Baptiste Alberge
+  - Francesco Corrado
+  - Nayda Bidikian
+  - David M. Cordas Dos Santos
+  - Ankit K. Dutta
+  - Elizabeth D. Lightbody
+  - Romanos Sklavenitis Pistofidis
+  - Adam S. Sperling
+  - Kenneth C. Anderson
+  - Shonali Midha
+  - Yuxin Liu
+  - Jacob P. Laubach
+  - Eric L. Smith
+  - Nikhil C. Munshi
+  - Omar Nadeem
+  - Irene Ghobrial
+  - Gad Getz
+  publisher: Blood
+  date: '2024-11-05'
+  link: https://doi.org/hbzkj2
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2024-203684
+  title: Tumor-Intrinsic and Immune Predictors of Response to Ixazomib, Lenalidomide,
+    and Dexamethasone in High-Risk Smoldering Multiple Myeloma
+  authors:
+  - Michelle P. Aranha
+  - Omar Nadeem
+  - Robert A. Redd
+  - Michael Timonian
+  - Sophie Magidson
+  - Elizabeth D. Lightbody
+  - Jean-Baptiste Alberge
+  - Ting Wu
+  - Junko Tsuji
+  - Luca Bertamini
+  - Ankit K. Dutta
+  - Habib El-Khoury
+  - Mark Bustoros
+  - Jacob Laubach
+  - Giada Bianchi
+  - Elizabeth K. O'Donnell
+  - Kenneth C. Anderson
+  - Gad Getz
+  - Lorenzo Trippa
+  - Paul G. Richardson
+  - Romanos Sklavenitis-Pistofidis
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2024-11-05'
+  link: https://doi.org/hbzkj3
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26508/LSA.202302195
+  title: Exploring the impact of dexamethasone on gene regulation in myeloma cells
+  authors:
+  - Victor Bessonneau-Gaborit
+  - Jonathan Cruard
+  - Catherine Guerin-Charbonnel
+  - Jennifer Derrien
+  - Jean-Baptiste Alberge
+  - Elise Douillard
+  - Magali Devic
+  - Sophie Deshayes
+  - "Lo\xEFc Campion"
+  - Frank Westermann
+  - Phillipe Moreau
+  - Carl Herrmann
+  - "J\xE9r\xE9mie Bourdon"
+  - Florence Magrangeas
+  - "St\xE9phane Minvielle"
+  publisher: Life Science Alliance
+  date: '2023-07-31'
+  link: https://doi.org/hbwhpp
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2023-184900
+  title: Genome Sequencing to Discover Drivers of Clonal Expansion in Smoldering Multiple
+    Myeloma
+  authors:
+  - Jean-Baptiste Alberge
+  - Ankit K. Dutta
+  - Elizabeth D. Lightbody
+  - Andrea Poletti
+  - Sofia Wallin
+  - Andrew Dunford
+  - Tim Coorens
+  - Xavi Loinaz
+  - Cody J. Boehner
+  - Nang Kham Su
+  - Laura Hevenor
+  - Katherine Towle
+  - Jacqueline Perry
+  - "Kirsten K\xFCbler"
+  - Romanos Sklavenitis-Pistofidis
+  - Julian Hess
+  - Chip Stewart
+  - Gad Getz
+  - Irene M. Ghobrial
+  publisher: Blood
+  date: '2023-11-02'
+  link: https://doi.org/hbzkj4
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001079705400144
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001079705400144
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001079705400079
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001079705400079
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41591-023-02491-5
+  title: Mechanisms of antigen escape from BCMA- or GPRC5D-targeted immunotherapies
+    in multiple myeloma
+  authors:
+  - Holly Lee
+  - Sungwoo Ahn
+  - Ranjan Maity
+  - Noemie Leblay
+  - Bachisio Ziccheddu
+  - Marietta Truger
+  - Monika Chojnacka
+  - Anthony Cirrincione
+  - Michael Durante
+  - Remi Tilmont
+  - Elie Barakat
+  - Mansour Poorebrahim
+  - Sarthak Sinha
+  - John McIntyre
+  - Angela M.Y. Chan
+  - Holly Wilson
+  - Shari Kyman
+  - Amrita Krishnan
+  - Ola Landgren
+  - Wencke Walter
+  - Manja Meggendorfer
+  - Claudia Haferlach
+  - Torsten Haferlach
+  - Hermann Einsele
+  - "Martin K. Kort\xFCm"
+  - Stefan Knop
+  - Jean Baptiste Alberge
+  - Andreas Rosenwald
+  - Jonathan J. Keats
+  - Leo Rasche
+  - Francesco Maura
+  - Paola Neri
+  - Nizar J. Bahlis
+  publisher: Nature Medicine
+  date: '2023-08-31'
+  link: https://doi.org/gs5f9d
   orcid: 0000-0002-4218-7294
   jean-baptiste-alberge: true
   plugin: orcid.py
@@ -393,7 +1423,721 @@
   jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13148-020-00953-y
+- id: doi:10.1101/2023.05.19.541506
+  title: "Novel mechanism of\n                  <i>MYC</i>\n                  deregulation\
+    \ in Multiple Myeloma"
+  authors:
+  - Mahshid Rahmat
+  - Kendell Clement
+  - Jean-Baptiste Alberge
+  - Romanos Sklavenitis-Pistofidis
+  - Rohan Kodgule
+  - Charles P. Fulco
+  - Daniel Heilpern-Mallory
+  - Katarina Nilsson
+  - David Dorfman
+  - Jesse M. Engreitz
+  - Gad Getz
+  - Luca Pinello
+  - Russell Ryan
+  - Irene M. Ghobrial
+  publisher: openRxiv
+  date: '2023-05-22'
+  link: https://doi.org/hbzkj5
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2023-189760
+  title: Single-Cell RNA Sequencing of Circulating Tumor Cells in Precursor Myeloma
+    Patients Reveals Mechanisms of Disease Dissemination
+  authors:
+  - Elizabeth D. Lightbody
+  - Romanos Sklavenitis-Pistofidis
+  - Danielle T. Firer
+  - Junko Tsuji
+  - Mike P. Agius
+  - Ankit K. Dutta
+  - Ting Wu
+  - Hadley Barr
+  - Sungjae Kim
+  - Tim Coorens
+  - Jean-Baptiste Alberge
+  - Michelle P. Aranha
+  - Nicholas J Haradhvala
+  - Nang Kham Su
+  - Cody J. Boehner
+  - Kelly Walsh
+  - Mahshid Rahmat
+  - Yoshinobu Konishi
+  - Laura Hevenor
+  - Katherine Towle
+  - Erica M. Horowitz
+  - Jacqueline Perry
+  - Grace Fleming
+  - Habib El-Khoury
+  - Michael Vinyard
+  - Annie Cowan
+  - Daniel Auclair
+  - John E. Ready
+  - Catherine R. Marinac
+  - Gad Getz
+  - Irene M. Ghobrial
+  publisher: Blood
+  date: '2023-11-02'
+  link: https://doi.org/hbzkj6
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001079705400149
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001079705400149
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.08.01.551480
+  title: Systematic characterization of therapeutic vulnerabilities in Multiple Myeloma
+    with Amp1q reveals increased sensitivity to the combination of MCL1 and PI3K inhibitors
+  authors:
+  - Romanos Sklavenitis-Pistofidis
+  - Elizabeth D. Lightbody
+  - Mairead Reidy
+  - Junko Tsuji
+  - Michelle P. Aranha
+  - Daniel Heilpern-Mallory
+  - Daisy Huynh
+  - Stephen J. F. Chong
+  - Liam Hackett
+  - Nicholas J. Haradhvala
+  - Ting Wu
+  - Nang K. Su
+  - Brianna Berrios
+  - Jean-Baptiste Alberge
+  - Ankit Dutta
+  - Matthew S. Davids
+  - Maria Papaioannou
+  - Gad Getz
+  - Irene M. Ghobrial
+  - Salomon Manier
+  publisher: openRxiv
+  date: '2023-08-03'
+  link: https://doi.org/hbzkj7
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001079705400023
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001079705400023
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000895909200079
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000895909200079
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2022-164436
+  title: 'Abnormal Free Light Chains in Individuals with African Ancestry Screened
+    for Monoclonal Gammopathy: Definition of New Reference Range Accounting for Renal
+    Function and Race'
+  authors:
+  - Luca Bertamini
+  - Jean-Baptiste Alberge
+  - Habib El-Khoury
+  - David J. Lee
+  - Ciara Murphy
+  - Grace Fleming
+  - Maya I. Davis
+  - Jacqueline Perry
+  - Christian J. Cea-Curry
+  - Audrey Pentz
+  - Thulisile Hlubi
+  - Natalie Smyth
+  - D.J. Sakrikar
+  - Mark C. Perkins
+  - Stephen Harding
+  - Derek Troske
+  - Gad Getz
+  - Timothy R. Rebbeck
+  - Maureen Joffe
+  - Catherine R. Marinac
+  - Nelson Leung
+  - Carl Wenlong Chen
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2022-11-15'
+  link: https://doi.org/hbzkj8
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000892509504176
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000892509504176
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2022-164811
+  title: Inhibition of MICA and MICB Shedding Enhances Cytokine-Induced Memory-like
+    NK Cell-Mediated Activity Against Multiple Myeloma
+  authors:
+  - Sabrin Tahri
+  - Nang Kham Su
+  - Luisa Maria Lampe
+  - Han Dong
+  - Juliana Vergara Cadavid
+  - Natalie Papazian
+  - Amanda Cao
+  - Jean-Baptiste Alberge
+  - Lucas Ferrari de Andrade
+  - Mahshid Rahmat
+  - Yujia Shen
+  - Rebecca Boiarsky
+  - Laura Blanco
+  - Bruno Paiva
+  - Andreas Guenther
+  - Gad Getz
+  - Pieter Sonneveld
+  - Tom Cupedo
+  - Kai W. Wucherpfennig
+  - Irene Ghobrial
+  - Rizwan Romee
+  publisher: Blood
+  date: '2022-11-15'
+  link: https://doi.org/hbzkj9
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2967/JNUMED.121.262884
+  title: 'Molecular Signature of <sup>18</sup>F-FDG PET Biomarkers in Newly Diagnosed
+    Multiple Myeloma Patients: A Genome-Wide Transcriptome Analysis from the CASSIOPET
+    Study'
+  authors:
+  - Jean-Baptiste Alberge
+  - "Fran\xE7oise Kraeber-Bod\xE9r\xE9"
+  - Bastien Jamet
+  - Cyrille Touzeau
+  - "H\xE9l\xE8ne Caillon"
+  - Soraya Wuilleme
+  - "Marie-Christine B\xE9n\xE9"
+  - Tobias Kampfenkel
+  - Pieter Sonneveld
+  - Mark van Duin
+  - Herve Avet-Loiseau
+  - Jill Corre
+  - Florence Magrangeas
+  - Thomas Carlier
+  - Caroline Bodet-Milin
+  - "Michel Ch\xE9rel"
+  - Philippe Moreau
+  - "St\xE9phane Minvielle"
+  - "Cl\xE9ment Bailly"
+  publisher: Journal of Nuclear Medicine
+  date: '2022-01-27'
+  link: https://doi.org/hbwhpr
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2022-169034
+  title: Monitoring Plasma Cells and Clonal Emergence through Genome Sequencing of
+    Circulating Tumor Cells for Minimally Invasive Molecular Characterization of Multiple
+    Myeloma
+  authors:
+  - Ankit K. Dutta
+  - Jean-Baptiste Alberge
+  - Elizabeth D. Lightbody
+  - Cody J. Boehner
+  - Romanos Sklavenitis-Pistofidis
+  - Amanda Cao
+  - Tarek H. Mouhieddine
+  - Anna Cowan
+  - Nang Kham Su
+  - Andrew Dunford
+  - Erica Horowitz
+  - Hadley Barr
+  - Jenna B. Beckwith
+  - Laura Hevenor
+  - Jacqueline Perry
+  - Ornkleaw Zepp
+  - Thai Bui
+  - Steven Gross
+  - Omar Nadeem
+  - Chip Stewart
+  - Daniel Auclair
+  - Gad Getz
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2022-11-15'
+  link: https://doi.org/hbzkkb
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000895909200113
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000895909200113
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000892509509146
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000892509509146
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2022-169380
+  title: Persistence of Monoclonal Gammopathies in Serial Samples from a US Population-Based
+    Screening Study
+  authors:
+  - Habib El-Khoury
+  - Luca Bertamini
+  - Jean-Baptiste Alberge
+  - David J. Lee
+  - Ciara Murphy
+  - Grace Fleming
+  - Christian J. Cea-Curry
+  - Maya I. Davis
+  - Jacqueline Perry
+  - Elizabeth D. Lightbody
+  - Dhananjay Sakrikar
+  - Derek Troske
+  - David Barnidge
+  - Mark C. Perkins
+  - Stephen Harding
+  - Gad Getz
+  - Catherine R. Marinac
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2022-11-15'
+  link: https://doi.org/hbzkkc
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2022-167268
+  title: Prevalence of Monoclonal Gammopathies Detected By Mass Spectrometry and Their
+    Risk Factors Among Black Africans in South Africa
+  authors:
+  - David J. Lee
+  - Habib El-Khoury
+  - Luca Bertamini
+  - Jean-Baptiste Alberge
+  - Maya I. Davis
+  - Jacqueline Perry
+  - Dhananjay Sakrikar
+  - David Barnidge
+  - Mark C. Perkins
+  - Stephen Harding
+  - Derek Troske
+  - Audrey Pentz
+  - Thulisile Hlubi
+  - Natalie Smyth
+  - Anna Cowan
+  - Angela C. Tramontano
+  - Gad Getz
+  - Timothy R. Rebbeck
+  - Maureen Joffe
+  - Wenlong Carl Chen
+  - Catherine R. Marinac
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2022-11-15'
+  link: https://doi.org/hbzkkd
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S2352-3026(22)00069-2
+  title: 'Prevalence of monoclonal gammopathies and clinical outcomes in a high-risk
+    US population screened by mass spectrometry: a multicentre cohort study'
+  authors:
+  - Habib El-Khoury
+  - David J Lee
+  - Jean-Baptiste Alberge
+  - Robert Redd
+  - Christian J Cea-Curry
+  - Jacqueline Perry
+  - Hadley Barr
+  - Ciara Murphy
+  - Dhananjay Sakrikar
+  - David Barnidge
+  - Mark Bustoros
+  - Houry Leblebjian
+  - Anna Cowan
+  - Maya I Davis
+  - Julia Amstutz
+  - Cody J Boehner
+  - Elizabeth D Lightbody
+  - Romanos Sklavenitis-Pistofidis
+  - Mark C Perkins
+  - Stephen Harding
+  - Clifton C Mo
+  - Prashant Kapoor
+  - Joseph Mikhael
+  - Ivan M Borrello
+  - Rafael Fonseca
+  - Scott T Weiss
+  - Elizabeth Karlson
+  - Lorenzo Trippa
+  - Timothy R Rebbeck
+  - Gad Getz
+  - Catherine R Marinac
+  - Irene M Ghobrial
+  publisher: The Lancet Haematology
+  date: '2022-05-01'
+  link: https://doi.org/hbwhpq
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/BLOOD-2022-167041
+  title: 'Reconstructing the Genomic History of Multiple Myeloma Precursor Disease:
+    Novel Insights and Clinical Applicability'
+  authors:
+  - Jean-Baptiste Alberge
+  - Ankit K. Dutta
+  - Elizabeth D. Lightbody
+  - Andrea Poletti
+  - Andrew Dunford
+  - Oliver Priebe
+  - Julian M. Hess
+  - Cody J. Boehner
+  - Romanos Sklavenitis-Pistofidis
+  - Nang Kham Su
+  - Erica Horowitz
+  - Hadley Barr
+  - Jenna B. Beckwith
+  - Laura Hevenor
+  - Katherine Towle
+  - Jacqueline Perry
+  - Esther Rheinbay
+  - Chip Stewart
+  - Gad Getz
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2022-11-15'
+  link: https://doi.org/hbzkkf
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.02.01.22270128
+  title: Single Cell Characterization of Myeloma and its Precursor Conditions Reveals
+    Transcriptional Signatures of Early Tumorigenesis
+  authors:
+  - Rebecca Boiarsky
+  - Nicholas J. Haradhvala
+  - Jean-Baptiste Alberge
+  - Romanos Sklavenitis-Pistofidis
+  - Tarek H Mouhieddine
+  - Oksana Zavidij
+  - Ming-Chieh Shih
+  - Danielle Firer
+  - Mendy Miller
+  - Habib El-Khoury
+  - Shankara K. Anand
+  - "Fran\xE7ois Aguet"
+  - David Sontag
+  - Irene M. Ghobrial
+  - Gad Getz
+  publisher: openRxiv
+  date: '2022-02-05'
+  link: https://doi.org/hbzkkg
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41467-022-33944-Z
+  title: Single cell characterization of myeloma and its precursor conditions reveals
+    transcriptional signatures of early tumorigenesis
+  authors:
+  - Rebecca Boiarsky
+  - Nicholas J. Haradhvala
+  - Jean-Baptiste Alberge
+  - Romanos Sklavenitis-Pistofidis
+  - Tarek H. Mouhieddine
+  - Oksana Zavidij
+  - Ming-Chieh Shih
+  - Danielle Firer
+  - Mendy Miller
+  - Habib El-Khoury
+  - Shankara K. Anand
+  - "Fran\xE7ois Aguet"
+  - David Sontag
+  - Irene M. Ghobrial
+  - Gad Getz
+  publisher: Nature Communications
+  date: '2022-11-17'
+  link: https://doi.org/g8q7gn
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2022-162851
+  title: Single-Cell RNA Sequencing of Rare Circulating Tumor Cells in Precursor Myeloma
+    Patients Reveals Molecular Underpinnings of Tumor Cell Circulation
+  authors:
+  - Elizabeth D. Lightbody
+  - Danielle T. Firer
+  - Romanos Sklavenitis-Pistofidis
+  - Junko Tsuji
+  - Michael P. Agius
+  - Ankit K. Dutta
+  - Ting Wu
+  - Hadley Barr
+  - Mahshid Rahmat
+  - Yoshinobu Konishi
+  - Michelle P. Aranha
+  - Michael Vinyard
+  - Jean-Baptiste Alberge
+  - Nang Kham Su
+  - Cody J. Boehner
+  - Laura Hevenor
+  - Habib El-Khoury
+  - Katherine Towle
+  - Christian J. Cea-Curry
+  - Erica Horowitz
+  - Jacqueline Perry
+  - Anna Cowan
+  - Anna V. Justis
+  - Daniel Auclair
+  - Catherine R. Marinac
+  - Gad Getz
+  - Irene Ghobrial
+  publisher: Blood
+  date: '2022-11-15'
+  link: https://doi.org/hbzkkh
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000892509504177
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000892509504177
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41571-021-00593-Y
+  title: "Single-cell profiling of tumour evolution in multiple myeloma \u2014 opportunities\
+    \ for precision medicine"
+  authors:
+  - Ankit K. Dutta
+  - Jean-Baptiste Alberge
+  - Romanos Sklavenitis-Pistofidis
+  - Elizabeth D. Lightbody
+  - Gad Getz
+  - Irene M. Ghobrial
+  publisher: Nature Reviews Clinical Oncology
+  date: '2022-01-11'
+  link: https://doi.org/gn7v87
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2022-155862
+  title: TP53 CRISPR/Cas9 Reveals Strict BAX Dependence in the Response to BH3 Mimetic
+    Targeting MCL1
+  authors:
+  - Romane Durand
+  - Domitille Costes-Tertrais
+  - Geraldine Descamps
+  - Christelle Dousset
+  - "Sophie Ma\xEFga"
+  - Jean-Baptiste Alberge
+  - Elise Douillard
+  - Jennifer Derrien
+  - Celine Bellanger
+  - David Chiron
+  - Stephane Minvielle
+  - Cyrille Touzeau
+  - Philippe Moreau
+  - Martine Amiot
+  - Patricia Gomez-Bougie
+  - Agnes Moreau-Aubry
+  - Catherine Pellat-Deceunynck
+  publisher: Blood
+  date: '2022-11-15'
+  link: https://doi.org/hbzkkj
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2021-149868
+  title: 'High Prevalence of Monoclonal Gammopathy in a Population at Risk: The First
+    Results of the Promise Study'
+  authors:
+  - Habib El-Khoury
+  - Jean-Baptiste Alberge
+  - Hadley Barr
+  - Ciara Murphy
+  - D.J. Sakrikar
+  - Tara Krause
+  - David Barnidge
+  - Mark Bustoros
+  - Houry Leblebjian
+  - Annie Cowan
+  - Maya Davis
+  - Julia Amstutz
+  - Jacqueline Perry
+  - Cody J. Boehner
+  - Elizabeth D. Lightbody
+  - Tarek H Mouhieddine
+  - Romanos Sklavenitis-Pistofidis
+  - Mark C Perkins
+  - Stephen Harding
+  - Prashant Kapoor
+  - Clifton C. Mo
+  - David L. Murray
+  - Ivan M. Borrello
+  - Gad Getz
+  - Timothy R Rebbeck
+  - Catherine R. Marinac
+  - Irene M. Ghobrial
+  publisher: Blood
+  date: '2021-11-05'
+  link: https://doi.org/hbzkkm
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2021-150734
+  title: Identification of a Novel Epigenetic Mechanism of <i>MYC</i> Deregulation
+    in Smoldering and Newly Diagnosed Multiple Myeloma Patients
+  authors:
+  - Mahshid Rahmat
+  - Kendell Clement
+  - Romanos Sklavenitis-Pistofidis
+  - Rohan Kodgule
+  - Charles Fulco
+  - Jean-Baptiste Alberge
+  - Cody J. Boehner
+  - Michael P. Agius
+  - Elizabeth Morgan Kitzenberg
+  - David Dorfman
+  - Russell J. H. Ryan
+  - Luca Pinello
+  - Irene M. Ghobrial
+  publisher: Blood
+  date: '2021-11-05'
+  link: https://doi.org/hbzkkn
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2021-148782
+  title: Interim Analysis of Mmrf Curecloud Research Initiative Identifies High Prevalence
+    and Patterns of Clonal Hematopoiesis of Indeterminate Potential (CHIP) Mutations
+    in a Real World Myeloma Cohort
+  authors:
+  - Reyka G Jayasinghe
+  - Annette S. Kim
+  - Teni Dowdell
+  - Carrie Cibulskis
+  - Jennifer Yesil
+  - Debanjana Chatterjee
+  - Michele Likens
+  - Shaadi Mehr
+  - Cartik Saravanamuthu
+  - Jean-Baptiste Alberge
+  - Emily Lapinskas
+  - Steven E Labkoff
+  - Keith L Ligon
+  - Hearn Jay Cho
+  - Irene M. Ghobrial
+  - Daniel Auclair
+  publisher: Blood
+  date: '2021-11-05'
+  link: https://doi.org/hbzkkp
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2021-150622
+  title: Non-Invasive Liquid Biopsy to Quantify and Molecularly Characterize Circulating
+    Multiple Myeloma Cells in the Assessment of Precursor Disease Pathology
+  authors:
+  - Ankit K. Dutta
+  - Elizabeth D. Lightbody
+  - Ziao Lin
+  - Jean-Baptiste Alberge
+  - Romanos Sklavenitis-Pistofidis
+  - Tarek H Mouhieddine
+  - Annie Cowan
+  - Nang K. Su
+  - Cody J. Boehner
+  - Hadley Barr
+  - Steven Gross
+  - Ornkleaw Zepp
+  - Thai Bui
+  - Jared Mayes
+  - Daniel Auclair
+  - Gad Getz
+  - Irene M. Ghobrial
+  publisher: Blood
+  date: '2021-11-05'
+  link: https://doi.org/hbzkkq
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2021-150889
+  title: Single Cell Characterization of Myeloma and Its Precursor Conditions Reveals
+    Transcriptional Signatures of Early Tumorigenesis
+  authors:
+  - Rebecca Boiarsky
+  - Nicholas Haradhvala
+  - Romanos Sklavenitis-Pistofidis
+  - Tarek H Mouhieddine
+  - Jean-Baptiste Alberge
+  - Oksana Zavidij
+  - Danielle Firer
+  - Shankara Anand
+  - Habib El-Khoury
+  - "Fran\xE7ois Aguet"
+  - David Sontag
+  - Irene M. Ghobrial
+  - Gad Getz
+  publisher: Blood
+  date: '2021-11-05'
+  link: https://doi.org/hbzkkr
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S13148-020-00953-Y
   title: DNA hydroxymethylation is associated with disease severity and persists at
     enhancers of oncogenic regions in multiple myeloma
   authors:
@@ -412,6 +2156,117 @@
   publisher: Clinical Epigenetics
   date: '2020-11-02'
   link: https://doi.org/g95p29
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2020-140235
+  title: Genome-Wide Transcriptome Analysis Identifies Molecular Patterns of FDG-PET/CT
+    Biomarkers in MM Patients from the Cassiopet Study
+  authors:
+  - Jean-Baptiste Alberge
+  - Bastien Jamet
+  - Clement Bailly
+  - Cyrille Touzeau
+  - Jonathan Cruard
+  - Thomas Carlier
+  - Caroline Bodet-Milin
+  - Michel Cherel
+  - Philippe Moreau
+  - Stephane Minvielle
+  - Francoise Kraeber-Bodere
+  publisher: Blood
+  date: '2020-11-05'
+  link: https://doi.org/hbzkks
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/JITC-2019-000311
+  title: Increased antitumor efficacy of PD-1-deficient melanoma-specific human lymphocytes
+  authors:
+  - Lucine Marotte
+  - Sylvain Simon
+  - Virginie Vignard
+  - Emilie Dupre
+  - Malika Gantier
+  - Jonathan Cruard
+  - Jean-Baptiste Alberge
+  - Melanie Hussong
+  - Cecile Deleine
+  - Jean-Marie Heslan
+  - Jonathan Shaffer
+  - Tiffany Beauvais
+  - Joelle Gaschet
+  - Emmanuel Scotet
+  - Delphine Fradin
+  - Anne Jarry
+  - Tuan Nguyen
+  - Nathalie Labarriere
+  publisher: Journal for ImmunoTherapy of Cancer
+  date: '2020-01-01'
+  link: https://doi.org/gkkfjw
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.CLML.2019.09.044
+  title: "Expansion of effector memory CD27+ T cells and tolerogenic type 2 classical\
+    \ dendritic cells regulate myeloma patients\u2019 sensitivity to daratumumab &amp;\
+    \ IMiDs"
+  authors:
+  - Paola Neri
+  - Jean-Baptiste Alberge
+  - Ranjan Maity
+  - Sylvia McCulloch
+  - Jason Tay
+  - Victor Jimenez-Zepeda
+  - Stephane Minivielle
+  - Nizar J. Bahlis
+  publisher: Clinical Lymphoma Myeloma and Leukemia
+  date: '2019-10-01'
+  link: https://doi.org/hbzkkt
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2019-131981
+  title: IGLL5-BCL2L1 Rearrangement with Loss of BCL2 Dependency As Mechanism of Venetoclax
+    Resistance in Multiple Myeloma (MM)
+  authors:
+  - Jean-Baptiste Alberge
+  - Sarthak Sinha
+  - Ranjan Maity
+  - Arzina Jaffer
+  - Justin Donovan
+  - Madison Kong
+  - Stephane Minvielle
+  - Paola Neri
+  - Nizar Bahlis
+  publisher: Blood
+  date: '2019-11-13'
+  link: https://doi.org/hbzkkv
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/BLOOD-2019-127593
+  title: Mutations and Copy Number Gains of the BCL2 Family Members Mediate Resistance
+    to Venetoclax in Multiple Myeloma (MM) Patients
+  authors:
+  - Paola Neri
+  - Ranjan Maity
+  - Jean-Baptiste Alberge
+  - Sarthak Sinha
+  - Justin Donovan
+  - Madison Kong
+  - Fajer Hasan
+  - Arzina Jaffer
+  - Lawrence H. Boise
+  - Nizar Bahlis
+  publisher: Blood
+  date: '2019-11-13'
+  link: https://doi.org/gh5xd3
   orcid: 0000-0002-4218-7294
   jean-baptiste-alberge: true
   plugin: orcid.py
@@ -681,47 +2536,6 @@
   publisher: Nature Communications
   date: '2022-11-17'
   link: https://doi.org/g8q7gn
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/S2352-3026(22)00069-2
-  title: 'Prevalence of monoclonal gammopathies and clinical outcomes in a high-risk
-    US population screened by mass spectrometry: a multicentre cohort study'
-  authors:
-  - Habib El-Khoury
-  - David J Lee
-  - Jean-Baptiste Alberge
-  - Robert Redd
-  - Christian J Cea-Curry
-  - Jacqueline Perry
-  - Hadley Barr
-  - Ciara Murphy
-  - Dhananjay Sakrikar
-  - David Barnidge
-  - Mark Bustoros
-  - Houry Leblebjian
-  - Anna Cowan
-  - Maya I Davis
-  - Julia Amstutz
-  - Cody J Boehner
-  - Elizabeth D Lightbody
-  - Romanos Sklavenitis-Pistofidis
-  - Mark C Perkins
-  - Stephen Harding
-  - Clifton C Mo
-  - Prashant Kapoor
-  - Joseph Mikhael
-  - Ivan M Borrello
-  - Rafael Fonseca
-  - Scott T Weiss
-  - Elizabeth Karlson
-  - Lorenzo Trippa
-  - Timothy R Rebbeck
-  - Gad Getz
-  - Catherine R Marinac
-  - Irene M Ghobrial
-  publisher: The Lancet Haematology
-  date: '2022-05-01'
-  link: https://doi.org/hbwhpq
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2967/jnumed.121.262884
