@@ -733,19 +733,6 @@
   jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.70675/51f6f151z1271z4ef2z9ad0zfc37c2063871
-  title: "\xC9tude des m\xE9canismes de l'initiation et de la progression du my\xE9\
-    lome multiple par transcriptomique en cellule-unique et cartographie de l'hydroxym\xE9\
-    thylome"
-  authors:
-  - Jean-Baptiste Alberge
-  publisher: "Agence Bibliographique de l'Enseignement Sup\xE9rieur"
-  date: ''
-  link: https://doi.org/hbwhn9
-  orcid: 0000-0002-4218-7294
-  jean-baptiste-alberge: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1186/S13148-020-00953-Y
   title: DNA hydroxymethylation is associated with disease severity and persists at
     enhancers of oncogenic regions in multiple myeloma

@@ -1,1 +1,5 @@
 ## here to manually update citations
+
+# remove PhD
+- id: doi:10.70675/51f6f151z1271z4ef2z9ad0zfc37c2063871
+  remove: true
