@@ -10,6 +10,10 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
+comp-bio:
+  icon: fa-solid fa-code
+  description: Computational Biologist
+
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
@@ -17,6 +21,10 @@ phd:
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+
+intern:
+  icon: fa-solid fa-user-graduate
+  description: Intern
 
 programmer:
   icon: fa-solid fa-code
