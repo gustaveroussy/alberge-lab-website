@@ -1,7 +1,7 @@
 ---
 name: Hortense Beaussant
 image: images/people/hortense-beaussant-picture.jpg
-role: bioinformatics-engineer
+role: comp-bio
 affiliation: Gustave Roussy
 aliases:
 links:
