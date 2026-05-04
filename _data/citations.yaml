@@ -784,29 +784,6 @@
   jean-baptiste-alberge: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/806133
-  title: DNA hydroxymethylation reveals transcription regulation networks and prognostic
-    signatures in multiple myeloma
-  authors:
-  - Jean-Baptiste Alberge
-  - Florence Magrangeas
-  - Mirko Wagner
-  - "Soline Deni\xE9"
-  - "Catherine Gu\xE9rin-Charbonnel"
-  - "Lo\xEFc Campion"
-  - Michel Attal
-  - "Herv\xE9 Avet-Loiseau"
-  - Thomas Carell
-  - Philippe Moreau
-  - "St\xE9phane Minvielle"
-  - "Aur\xE9lien A. S\xE9randour"
-  publisher: openRxiv
-  date: '2019-10-16'
-  link: https://doi.org/gkt5sc
-  orcid: 0000-0002-4218-7294
-  jean-baptiste-alberge: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.64898/2026.02.23.707492
   title: Statins and genetic inhibition of the mevalonate pathway activate an ATF3-STMN2
     regenerative program
