@@ -1,6 +1,5 @@
 ---
 name: Alexis Galtié
-image: images/people/jean-baptiste-alberge-picture.jpg
 role: intern
 affiliation: Gustave Roussy
 aliases:
