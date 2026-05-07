@@ -4,6 +4,10 @@ image: images/people/hortense-beaussant-picture.jpg
 role: comp-bio
 affiliation: Gustave Roussy
 aliases:
+  - Hortense D. A. M. Beaussant
+  - HDAM Beaussant
+  - Hortense Beaussant
+  - H Beaussant
 links:
   home-page: https://gustaveroussy.github.io/alberge-lab-website/
   orcid: 0009-0003-1014-143X
