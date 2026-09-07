@@ -1,5 +1,55 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1158/0008-5472.32702528
+  title: "Figures S1\u20134 and Tables S1\u20132 from Selective Enhancer Gain-of-Function\
+    \ Deregulates &lt;i&gt;MYC&lt;/i&gt; Expression in Multiple Myeloma"
+  authors:
+  - Mahshid Rahmat
+  - Kendell Clement
+  - Jean-Baptiste Alberge
+  - Romanos Sklavenitis-Pistofidis
+  - Rohan Kodgule
+  - Charles P. Fulco
+  - Daniel Heilpern-Mallory
+  - Katarina Nilsson
+  - David Dorfman
+  - Jesse M. Engreitz
+  - Gad Getz
+  - Luca Pinello
+  - Russell J.H. Ryan
+  - Irene M. Ghobrial
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hb8b75
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32702525
+  title: Supplementary Methods from Selective Enhancer Gain-of-Function Deregulates
+    &lt;i&gt;MYC&lt;/i&gt; Expression in Multiple Myeloma
+  authors:
+  - Mahshid Rahmat
+  - Kendell Clement
+  - Jean-Baptiste Alberge
+  - Romanos Sklavenitis-Pistofidis
+  - Rohan Kodgule
+  - Charles P. Fulco
+  - Daniel Heilpern-Mallory
+  - Katarina Nilsson
+  - David Dorfman
+  - Jesse M. Engreitz
+  - Gad Getz
+  - Luca Pinello
+  - Russell J.H. Ryan
+  - Irene M. Ghobrial
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hb8b76
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1182/blood.2025032333
   title: 'At a crossroads: circulating tumor cells in myeloma'
   authors:
@@ -327,6 +377,31 @@
   publisher: Briefings in Bioinformatics
   date: '2025-08-31'
   link: https://doi.org/hbwhpm
+  orcid: 0000-0002-4218-7294
+  jean-baptiste-alberge: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.c.7585309
+  title: Data from Selective Enhancer Gain-of-Function Deregulates &lt;i&gt;MYC&lt;/i&gt;
+    Expression in Multiple Myeloma
+  authors:
+  - Mahshid Rahmat
+  - Kendell Clement
+  - Jean-Baptiste Alberge
+  - Romanos Sklavenitis-Pistofidis
+  - Rohan Kodgule
+  - Charles P. Fulco
+  - Daniel Heilpern-Mallory
+  - Katarina Nilsson
+  - David Dorfman
+  - Jesse M. Engreitz
+  - Gad Getz
+  - Luca Pinello
+  - Russell J.H. Ryan
+  - Irene M. Ghobrial
+  publisher: American Association for Cancer Research (AACR)
+  date: '2024-12-16'
+  link: https://doi.org/hbwhnr
   orcid: 0000-0002-4218-7294
   jean-baptiste-alberge: true
   plugin: orcid.py
