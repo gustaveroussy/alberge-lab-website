@@ -18,6 +18,8 @@ Our team members will soon upload their profile using git pull requests! :-)
 
 {% include list.html data="members" component="portrait" filter="role == 'comp-bio'" %}
 
+{% include list.html data="members" component="portrait" filter="role == 'wet-lab-scientist'" %}
+
 {% include list.html data="members" component="portrait" filter="role == 'intern'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
