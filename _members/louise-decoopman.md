@@ -1,6 +1,6 @@
 ---
 name: Louise Decoopman
-image: images/people/louise-decoopman-picture.jpg
+image: images/people/louise-decoopman-picture.png
 role: wet-lab-scientist
 affiliation: Gustave Roussy
 aliases:
